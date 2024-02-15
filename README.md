@@ -1,6 +1,6 @@
-# coba_lagi
+# Bahan Belajar Flutter
 
-A new Flutter project.
+A new Flutter project. Open 'lib' directory. 
 
 ## Getting Started
 
